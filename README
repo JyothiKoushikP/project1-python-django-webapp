@@ -1,0 +1,8 @@
+BLOG2SHARE
+
+----> BLOG2SHARE is a web application designed using django framework
+----> Users can run the application in their local systems by installing django
+and following the documentation and the video.
+-----> Users can create their own account, write articles, insert images for reference to their post.
+-----> Users can use the same account (no temporary account is present).
+
