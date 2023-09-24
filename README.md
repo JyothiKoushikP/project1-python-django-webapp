@@ -7,9 +7,8 @@
 | Website Logo                        | Website Snapshots                   |
 | ----------------------------------- | ----------------------------------- |
 | <i![p3](https://github.com/jyothi-koushik-1998/project1-python-django-webapp/assets/47804397/a79a2d1d-5849-4205-a523-df29ac21b246)
-mg width="400" alt="Screenshot 2023-01-18 at 10 48 02 PM" src="https://github.com/jyothi-koushik-1998/project4-swift-graphql-ios-mobileapp/assets/47804397/0dc9df93-a21e-42b4-9912-8f09be28a2f5"> | <img width="512" alt="Screen Shot 2023-09-24 at 1 03 39 PM" src="https://github.com/jyothi-koushik-1998/project1-python-django-webapp/assets/47804397/18727f5a-1fdb-4ceb-a51e-ed8c284f9918">
-   |
-| <img width="512" alt="Screen Shot 2023-09-24 at 1 05 32 PM" src="https://github.com/jyothi-koushik-1998/project1-python-django-webapp/assets/47804397/038fdd13-baf1-4d20-8b1e-439e9d40714b">
+mg width="400" alt="Screenshot 2023-01-18 at 10 48 02 PM" src="https://github.com/jyothi-koushik-1998/project4-swift-graphql-ios-mobileapp/assets/47804397/0dc9df93-a21e-42b4-9912-8f09be28a2f5"> | <img width="512" alt="Screen Shot 2023-09-24 at 1 03 39 PM" src="https://github.com/jyothi-koushik-1998/project1-python-django-webapp/assets/47804397/18727f5a-1fdb-4ceb-a51e-ed8c284f9918"> |
+| <img width="512" alt="Screen Shot 2023-09-24 at 1 05 32 PM" src="https://github.com/jyothi-koushik-1998/project1-python-django-webapp/assets/47804397/038fdd13-baf1-4d20-8b1e-439e9d40714b"> 
  |  <img width="530" alt="Screen Shot 2023-09-24 at 1 06 19 PM" src="https://github.com/jyothi-koushik-1998/project1-python-django-webapp/assets/47804397/4fe90c13-ca72-495f-a1ae-b27e51ef5a50">
 |
 
