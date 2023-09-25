@@ -6,8 +6,8 @@
 
 | Launch Screen                       | Available Flights List              |
 | ----------------------------------- | ----------------------------------- |
-| <img width="512" alt="Screen Shot 2023-09-24 at 1 03 39 PM" src="https://github.com/jyothi-koushik-1998/project1-python-django-webapp/assets/47804397/8ca5e7a6-3dc8-4704-b8f9-75593586c086"> | <img width="512" alt="Screen Shot 2023-09-24 at 1 03 39 PM" src="https://github.com/jyothi-koushik-1998/project1-python-django-webapp/assets/47804397/b428d655-63ee-4d0d-bdeb-b5eab4c1b699"> |
-|<img width="512" alt="Screen Shot 2023-09-24 at 1 05 32 PM" src="https://github.com/jyothi-koushik-1998/project1-python-django-webapp/assets/47804397/35d81a0e-bd20-48e8-b1fd-d6b869cd2122"> | <img width="530" alt="Screen Shot 2023-09-24 at 1 06 19 PM" src="https://github.com/jyothi-koushik-1998/project1-python-django-webapp/assets/47804397/267829d4-c38b-4af8-a23b-85e6e4bd30bb"> |
+| <img width="512" alt="Screen Shot 2023-09-24 at 1 03 39 PM" src="https://github.com/jyothi-koushik-1998/project1-python-django-webapp/assets/47804397/b428d655-63ee-4d0d-bdeb-b5eab4c1b699"> | <img width="512" alt="Screen Shot 2023-09-24 at 1 05 32 PM" src="https://github.com/jyothi-koushik-1998/project1-python-django-webapp/assets/47804397/35d81a0e-bd20-48e8-b1fd-d6b869cd2122"> 
+| <img width="530" alt="Screen Shot 2023-09-24 at 1 06 19 PM" src="https://github.com/jyothi-koushik-1998/project1-python-django-webapp/assets/47804397/267829d4-c38b-4af8-a23b-85e6e4bd30bb"> |
 
 ## Installation
 
